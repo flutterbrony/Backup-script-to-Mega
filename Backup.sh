@@ -76,4 +76,4 @@ megaput -u $username -p $password Backup-$format_date.tar;
 printf "\tcleaning cache\n";
 rm Backup$format_date.tar;
 echo 'success !';
-exit 0;;
+exit 0;
